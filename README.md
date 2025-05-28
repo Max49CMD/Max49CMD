@@ -52,7 +52,7 @@
 
 <br />
 
-<h3 align="center">💻 Skills & Tools</h3>
+<h3 align="center">💻 Skills & Tools 💻</h3>
 
 <br />
 
