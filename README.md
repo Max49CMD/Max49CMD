@@ -1,10 +1,9 @@
-<h2 align="center">👨‍💻 Hey, my name is Maxim 👨‍💻</h2>
+<h2 align="center">👨‍💻 Maxim – C/C++ Developer 👨‍💻</h2>
 
 <p align="center">
-  <strong>Hi, I'm Maxim 👋</strong><br>
-  A 19-year-old C/C++ developer from Germany 🇩🇪<br>
-  Passionate about low-level programming, performance optimization, and creating cool things with code.<br>
-  Currently diving into OpenGL and CMake 🚀
+  19 years old from Germany 🇩🇪<br>
+  Passionate about low-level programming, performance, and creative coding.<br>
+  Exploring OpenGL and CMake 🚀
 </p>
 
 <br />
