@@ -14,7 +14,7 @@
 
   [![GitHub followers](https://img.shields.io/github/followers/Max49CMD?style=social)](https://github.com/Max49CMD)
   &nbsp;&nbsp;
-  [![LinkedIn](https://img.shields.io/badge/-Max49CMD-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximilian-ostwald-71b4b434a/)
+  [![LinkedIn](https://img.shields.io/badge/-Max49CMD-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Max49CMD/)
   &nbsp;&nbsp;
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/Max49CMD/)
 
@@ -87,7 +87,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/Max49CMD/YOUR_PROJECT_NAME">
+  <a href="https://github.com/Max49CMD/Discordbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Max49CMD&repo=DiscordBot&theme=tokyonight" alt="Featured Project" />
   </a>
 </p>
