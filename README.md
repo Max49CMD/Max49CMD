@@ -1,5 +1,5 @@
 <div>
-  <img src="https://i.imgur.com/SkofCNN.gif" width="300" align="right" alt="Profile Vibe" />
+  <img src="assets/Anime/Evangelion/Rei_Ayanami/rei_ayanami_running.gif" width="300" align="right" alt="rei_ayanami_running.gif" />
 
   <!-- 💻 Tech Badges -->
   <a href="https://www.learncpp.com/">
@@ -34,9 +34,10 @@
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img width="335" height="170" src="https://github-readme-stats.vercel.app/api?username=Max49CMD&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="300" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max49CMD&layout=compact&hide_border=true&langs_count=6&theme=tokyonight" />
+<div align="Left">
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max49CMD&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&cache_seconds=21600" />
+  <br/>
+  <img width="350" src="https://github-readme-stats.vercel.app/api?username=Max49CMD&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" />
 </div>
 
 ---
