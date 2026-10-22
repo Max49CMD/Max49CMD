@@ -9,7 +9,7 @@
 ### `@Max49CMD`
 **20 · C/C++ · Germany**
 
-low-level · game dev · ethical hacking
+low-level · learning · enjoying life
 
 <br/>
 
