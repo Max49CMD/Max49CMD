@@ -21,7 +21,6 @@ low-level · game dev · ethical hacking
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/Max49CMD)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Max49CMD)
 
 </td>
 <td valign="top" width="55%">
